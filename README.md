@@ -1,3 +1,11 @@
-# Fanatic-index
+# Fanatic
 
-My fourth template finished.
+Шаблонный лендинг сайта продвигающих САПы, который содержит не только информацию про них, но и **позволяет купить себе**.
+
+1. Адаптивная верстка
+2. Использовалась библиотека wow.js
+3. На создание лендинга потребовалось 5 суток
+
+![Fanatic-pf](fanatic.gif)
+
+[Click to show](https://brainhdv.github.io/Fanatic-index)
